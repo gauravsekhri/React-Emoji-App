@@ -1,0 +1,32 @@
+body{
+  background-color: rgb(84, 107, 82);
+}
+
+h1{
+  color: #fff;
+}
+
+.App {
+  text-align: center;
+}
+
+input{
+  width: 60%;
+  padding: 15px;
+  font-size: 25px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.emojies{
+  font-size: 40px;
+  cursor: pointer;
+  margin-top: 30px;
+}
+
+.output{
+  margin-top: 40px;
+  color: #fff;
+  font-size: 24px;
+}

@@ -11,7 +11,13 @@ function App() {
     "😭" : "Crying",
     "❤️" : "Heart",
     "🤣" : "Laughing",
-    "😠" : "Angry"
+    "😠" : "Angry",
+    "🤕" : "Injured",
+    "😪" : "Sleepy",
+    "🤒" : "Sick",
+    "😞" : "Sad",
+    "😨" : "Fear",
+    "🤧" : "Sneeze"
     // "smiling" : "😄",
     // "crying" : "😭",
     // "heart" : "❤️",

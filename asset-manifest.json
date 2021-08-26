@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-Emoji-App/static/css/main.1245dc95.chunk.css",
-    "main.js": "/React-Emoji-App/static/js/main.77802acc.chunk.js",
-    "main.js.map": "/React-Emoji-App/static/js/main.77802acc.chunk.js.map",
+    "main.js": "/React-Emoji-App/static/js/main.73e97f3c.chunk.js",
+    "main.js.map": "/React-Emoji-App/static/js/main.73e97f3c.chunk.js.map",
     "runtime-main.js": "/React-Emoji-App/static/js/runtime-main.d983a8ff.js",
     "runtime-main.js.map": "/React-Emoji-App/static/js/runtime-main.d983a8ff.js.map",
     "static/js/2.e947af6a.chunk.js": "/React-Emoji-App/static/js/2.e947af6a.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d983a8ff.js",
     "static/js/2.e947af6a.chunk.js",
     "static/css/main.1245dc95.chunk.css",
-    "static/js/main.77802acc.chunk.js"
+    "static/js/main.73e97f3c.chunk.js"
   ]
 }
